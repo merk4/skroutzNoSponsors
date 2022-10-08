@@ -3,6 +3,7 @@
 
 A simple Google Chrome extension to remove Sponsored Items from the first row on Greece's most popular marketplace platform.
 
+![SKR](https://github.com/merk4/skroutzNoSponsors/blob/main/nodonot.png)
 
 ## Authors
 
